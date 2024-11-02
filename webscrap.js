@@ -56,5 +56,5 @@ const url8="https://www.amazon.in/Sony-CFI-2008A01X-PlayStation%C2%AE5-Console-s
 const url9="https://www.amazon.in/Sony-PlayStation%C2%AE5-Digital-Edition-slim/dp/B0CY5QW186/ref=sr_1_3?sr=8-3"
 const url10="https://www.amazon.in/Amazon-Brand-Solimo-Stainless-Handles/dp/B0BMLWQDD2/?_encoding=UTF8&ref_=pd_hp_d_atf_dealz_m2"
 // // Testing with one of the URLs
-getAmazonProductDetails(url).then(details => console.log(details));
+// getAmazonProductDetails(url).then(details => console.log(details));
 
